@@ -1,4 +1,4 @@
-	function apbqwj(pname,px,py,pmap)
+	function valamivalami(pname,px,py,pmap)
 		{
 			$("body").trigger(
 			{
